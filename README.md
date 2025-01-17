@@ -1,14 +1,14 @@
-- 👋 Hi, I’m @asaiah4812
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Asaiah Henson a Fullstack Webdeveloper
+- 👀 I’m interested in Learning Web3
+- 🌱 I’m currently learning React native
+- 💞️ I’m looking to collaborate with Developer in open source project
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!---
-asaiah4812/asaiah4812 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-the website is a website for applying for job you can login as an applicant you can also login as a recruiter
-and applicant applies for job while the recruiter creates job
+Technical Approach
+I designed a scalable microservices architecture using Django REST Framework, Next.js, and React Native. The platform integrated smart contracts for secure transactions and PostgreSQL for off-chain data management.
+
+Collaboration and Problem-Solving
+I collaborated with design teams using Figma to create user-friendly interfaces. A key challenge was developing a blockchain-based escrow system, which I solved with custom smart contracts and rigorous testing.
+
